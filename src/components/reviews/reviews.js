@@ -73,8 +73,8 @@ function Reviews({getMovieData, movie, reviews, setReviews}) {
                                     </Row>
                                 </div>
                             )})
-                        })
-                    }
+                        }
+
                 </Col>
 
             </Row>
